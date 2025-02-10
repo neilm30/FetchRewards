@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FetchRewards</string>
+    <string name="retry_again">Retry Again</string>
+    <string name="id">ID : %1$d</string>
+    <string name="list_id">List ID : %1$d</string>">
+    <string name="name">Name : %1$s</string>
+</resources>
